@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dana</h1>
+<h1 align="center">Hi 👋, I'm pysric</h1>
 <h3 align="center">A passionate frontend developer from Austria / Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danaa4000&label=Profile%20views&color=0e75b6&style=flat" alt="danaa4000" /> </p>
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/danaa4000" target="blank"><img src="https://img.shields.io/twitter/follow/danaa4000?logo=twitter&style=for-the-badge" alt="danaa4000" /></a> </p>
 
-- 🔭 I’m currently working on [my website](https://dana.pages.dev)
+- 🔭 I’m currently working on - [my website](https://dana.pages.dev)
 
-- 🌱 I’m currently learning **HTML, CSS and Python**
+- 🌱 I’m currently learning - **HTML, CSS and Python**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about - **HTML**
 
-- 📫 How to reach me **Dana ✨#7777**
+- 📫 How to reach me - **pysric**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact - **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
